@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OOPC#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
